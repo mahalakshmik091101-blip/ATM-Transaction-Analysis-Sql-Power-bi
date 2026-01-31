@@ -44,11 +44,17 @@ ________________________________________
 
 🔍Insights Gained
 •	🔻 549 ATMs are operating at a loss (margin < 0%) — flagged for review.
+
 •	🔼 2374 ATMs show high profitability (margin > 30%) — prioritized for scaling.
+
 •	📈 Above 200 transactions/month observed in 1307 ATMs — strong customer engagement.
+
 •	🧾 AMC & CRA costs are major contributors to operational expenses — optimization recommended.
+
 •	🌍 Assam, Punjab, J&K lead in monthly revenue; Mizoram, Nagaland show low returns — regional strategy needed.
+
 •	🔄 Financial transactions dominate, but non-financial services show consistent usage — opportunity for service diversification.
+
 •	📅 Trend analysis reveals seasonal spikes — March shows highest transaction volume.
 
 ________________________________________
