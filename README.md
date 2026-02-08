@@ -94,9 +94,13 @@ ________________________________________
 
 Prepared by
 
-👤 Mahalakshmi
-🎯 Data Analyst Aspirant | SQL | Power BI | DAX | Excel 
+Prepared by 
 
+👤 Mahalakshmi K
+
+🎯 Data Analyst | SQL | Power BI | DAX | Excel |Tableau
+
+📧 Email:mahalakshmik091101@gmail.com
 
 
 
